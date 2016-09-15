@@ -1,2 +1,2 @@
 # lez
-less dev more funcz
+less dev more fun
